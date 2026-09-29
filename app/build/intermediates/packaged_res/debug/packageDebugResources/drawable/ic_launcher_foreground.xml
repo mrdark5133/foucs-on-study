@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Outline & Focus Target -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,20 C68,26 80,26 84,28 C84,52 74,74 54,88 C34,74 24,52 24,28 C28,26 40,26 54,20 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 A14,14 0 1,0 54,62 A14,14 0 1,0 54,34 Z M54,42 A6,6 0 1,1 54,54 A6,6 0 1,1 54,42 Z" />
+</vector>
