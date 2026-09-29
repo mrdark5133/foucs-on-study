@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Study Focus</string>
+    <string name="accessibility_service_description">Monitors distracting apps (such as Instagram and YouTube) and enforces your self-configured daily study focus limits to protect your concentration.</string>
+</resources>
